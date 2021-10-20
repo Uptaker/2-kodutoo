@@ -1,6 +1,6 @@
 # Markus Tammeoja
 
-Olen koostanud väikse Flappy Bird-laadse mängu. Võttis palju rohkem aega, kui arvasin, aga LÕPUKS sain siiski tööle
+Olen koostanud väikse Flappy Bird-laadse mängu JS-i põhjal.
 
 Kõik resurssi allikad on mängu veebilehel. Mõned joonistasin ise (raudkang).
 
@@ -10,7 +10,7 @@ Kõik resurssi allikad on mängu veebilehel. Mõned joonistasin ise (raudkang).
 
 ### Funktsionaalsus
 
-- Mäng töötab
+- Tegelane hüppab ülesse/alla
 - Pausi funktsioon
 - Tulemus salvestatud ketasse
 - Soovi korral tulemus salvestatakse avaliku edetabelisse
